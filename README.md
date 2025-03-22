@@ -12,7 +12,7 @@ A Python project that allows users to take selfies using hand gestures.
 1. Install the required dependencies:
    ```bash
    pip install opencv-python mediapipe pyttsx3 tkinter
-2. Install the required dependencies:
+2. Run the script:
     ```bash
-   pip install opencv-python mediapipe pyttsx3 tkinter
+   python HandGestureSelfie.py
 
